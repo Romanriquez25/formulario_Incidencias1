@@ -7,7 +7,6 @@
 
 
 .formulario{
-   
     width: 400px;
     height:60vh;
     margin: 0 auto;
@@ -16,8 +15,6 @@
     border-radius: 10px;
     box-shadow: 0 0 10px #000;
 }
-
-
 
 .formulario h1{
     text-align: center;
@@ -28,9 +25,8 @@ footer{
 
  }
 
-
 .navbar-brand img{
     background-color: #fff;
-    border-radius: 10px;
+    border-radius: 11px;
     height: 70px;
 }
