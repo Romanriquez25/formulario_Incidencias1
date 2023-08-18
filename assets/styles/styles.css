@@ -1,0 +1,38 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: content-box;
+    font-family: 'Roboto', sans-serif;
+}
+
+
+.formulario{
+   
+    width: 400px;
+    height:60vh;
+    margin: 0 auto;
+    padding: 20px;
+    background-color: #fff;
+    border-radius: 10px;
+    box-shadow: 0 0 10px #000;
+}
+
+.solicitud{
+    min-height: 200px;
+}
+
+.formulario h1{
+    text-align: center;
+}
+
+footer{
+    min-height: 218px;
+
+ }
+
+
+.navbar-brand img{
+    background-color: #fff;
+    border-radius: 10px;
+    height: 70px;
+}
